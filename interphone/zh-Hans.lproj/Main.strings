@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "频道密码"; ObjectID = "0v7-xF-e5s"; */
+"0v7-xF-e5s.text" = "频道密码";
+
+/* Class = "UILabel"; text = "频道名称"; ObjectID = "0xj-7D-gsS"; */
+"0xj-7D-gsS.text" = "频道名称";
+
+/* Class = "UITextField"; placeholder = "123456"; ObjectID = "4pS-og-yRQ"; */
+"4pS-og-yRQ.placeholder" = "123456";
+
+/* Class = "UILabel"; text = "欢迎合作"; ObjectID = "5aU-Ke-cw3"; */
+"5aU-Ke-cw3.text" = "欢迎合作";
+
+/* Class = "UILabel"; text = "头像"; ObjectID = "93c-BA-Ne6"; */
+"93c-BA-Ne6.text" = "头像";
+
+/* Class = "UITableViewController"; title = "对讲机"; ObjectID = "IOa-be-kYE"; */
+"IOa-be-kYE.title" = "对讲机";
+
+/* Class = "UILabel"; text = "QQ群: 551842866"; ObjectID = "Vbo-dD-1S0"; */
+"Vbo-dD-1S0.text" = "QQ群: 551842866";
+
+/* Class = "UILabel"; text = "微信: zhongxunkefu"; ObjectID = "Zas-tV-XVu"; */
+"Zas-tV-XVu.text" = "微信: zhongxunkefu";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "我的";
+
+/* Class = "UILabel"; text = "邮箱: liwansheng.wesly@foxmail.com"; ObjectID = "ijI-gJ-fJW"; */
+"ijI-gJ-fJW.text" = "邮箱: liwansheng.wesly@foxmail.com";
+
+/* Class = "UITabBarItem"; title = "对讲机"; ObjectID = "jTN-B2-iOV"; */
+"jTN-B2-iOV.title" = "对讲机";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "mBp-a9-87j"; */
+"mBp-a9-87j.text" = "Title";
